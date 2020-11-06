@@ -1,9 +1,9 @@
 # statify-i18n
 
 ![https://discord.gg/pnhSzb9](https://img.shields.io/discord/712313516542918717?color=%2333cc33&label=Statify%20Discord)
-![](https://img.shields.io/github/contributors/redstonecrafthd/statify-i18n)
-![](https://img.shields.io/github/forks/redstonecrafthd/statify-i18n?label=Forks)
-![](https://img.shields.io/github/commit-activity/m/redstonecrafthd/statify-i18n)
+![](https://img.shields.io/github/contributors/StatifyBot/statify-i18n)
+![](https://img.shields.io/github/forks/StatifyBot/statify-i18n?label=Forks)
+![](https://img.shields.io/github/commit-activity/m/StatifyBot/statify-i18n)
 
 
 Translation files for the Statify Discord Bot. You will get a Translator role in the Discord Server upon approval. Have fun translating!
