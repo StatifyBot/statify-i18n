@@ -6,7 +6,6 @@
 ![](https://img.shields.io/github/issues-pr-closed/StatifyBot/statify-i18n)
 ![](https://img.shields.io/github/forks/StatifyBot/statify-i18n?label=Forks)
 ![](https://img.shields.io/github/commit-activity/m/StatifyBot/statify-i18n)
-![](https://img.shields.io/github/directory-file-count/StatifyBot/statify-i18n/bot?label=Languages)
 ![](https://img.shields.io/github/stars/StatifyBot/statify-i18n?label=Stars)
 ![](https://img.shields.io/website?label=Website&url=https%3A%2F%2Fstatifybot.xyz)
 
