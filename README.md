@@ -7,6 +7,7 @@
 ![](https://img.shields.io/github/forks/StatifyBot/statify-i18n?label=Forks)
 ![](https://img.shields.io/github/commit-activity/m/StatifyBot/statify-i18n)
 ![](https://img.shields.io/github/directory-file-count/StatifyBot/statify-i18n/bot?label=Languages)
+![](https://img.shields.io/github/stars/StatifyBot/statify-i18n?label=Stars)
 
 
 Translation files for the Statify Discord Bot. You will get a Translator role in the Discord Server upon approval. Have fun translating!
