@@ -1,0 +1,31 @@
+{
+    "strings": [{
+            "placeholder": "meta.title",
+            "translation": "Statify"
+        },
+        {
+            "placeholder": "meta.description",
+            "translation": "Der fortschrittliste Statistiken Bot auf Discord"
+        },
+        {
+            "placeholder": "navigation.home",
+            "translation": "Home"
+        },
+        {
+            "placeholder": "navigation.guild",
+            "translation": "Guild"
+        },
+        {
+            "placeholder": "navigation.add-bot",
+            "translation": "Zu deinen Server hinzufügen"
+        },
+        {
+            "placeholder": "error.400",
+            "translation": "Schlechte Anfrage"
+        },
+        {
+            "placeholder": "error.404",
+            "translation": "Seite nicht gefunden"
+        }
+    ]
+}
