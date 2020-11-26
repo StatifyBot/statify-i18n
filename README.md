@@ -1,4 +1,4 @@
-# statify-i18n
+# Statify I18N
 
 ![https://discord.gg/pnhSzb9](https://img.shields.io/discord/712313516542918717?color=%2333cc33&label=Statify%20Discord)
 ![](https://img.shields.io/github/contributors/StatifyBot/statify-i18n)
@@ -10,9 +10,7 @@
 ![](https://img.shields.io/website?label=Website&url=https%3A%2F%2Fstatifybot.xyz)
 
 
-Translation files for the Statify Discord Bot. You will get a Translator role in the Discord Server upon approval. Have fun translating!
-
+Translation files for the Statify Discord Bot. You will get a Translator role in the Discord Server upon approval. Have fun translating!<br>
 The Bot is currently in Development. Any new messages could be added at every time without any announcements!
 
-*Join on the official Statify Discord Server to get your Translator role!*
-*https://discord.gg/pnhSzb9*
+Join on the [official Statify Discord Server](https://discord.gg/pnhSzb9) to get your Translator role!
