@@ -1,9 +1,9 @@
-### Website Translations
+## Website Translations
 These translations are unlike the bot translations fully in JSON and not in `*.properties` format.
 
-#### How to Translate
+### How to Translate
 
-##### Add a language
+#### Add a language
 
 - Open the `TEMPLATE.json` File in a new tab.
 - Copy the content of that file.
@@ -12,7 +12,7 @@ These translations are unlike the bot translations fully in JSON and not in `*.p
 - Paste the content of the template file into the new file
 
 
-##### Translate
+#### Translate
 - Open the file by clicking on it and clicking on the pen.
 - Translate the file.<br>
   Note: `"placeholder": "dont.ever.touch.this", "translation": "Translate this"`
