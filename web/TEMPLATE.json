@@ -26,6 +26,58 @@
         {
             "placeholder": "error.404",
             "translation": "Page not found"
+        },
+        {
+            "placeholder": "navigation.home",
+            "translation": "Home"
+        },
+        {
+            "placeholder": "navigation.bot-invite",
+            "translation": "Invite the Bot"
+        },
+        {
+            "placeholder": "navigation.team",
+            "translation": "Our Team"
+        },
+        {
+            "placeholder": "home.get-bot",
+            "translation": "Get Statify Now"
+        },
+        {
+            "placeholder": "home.category.features",
+            "translation": "Features"
+        },
+        {
+            "placeholder": "home.features.description",
+            "translation": "Page not found"
+        },
+        {
+            "placeholder": "home.features.1.title",
+            "translation": "Always available"
+        },
+        {
+            "placeholder": "home.features.1.description",
+            "translation": "Statify runs using a complex backend making it possible to be 24/7 online."
+        },
+        {
+            "placeholder": "home.features.2.title",
+            "translation": "Fast"
+        },
+        {
+            "placeholder": "home.features.2.description",
+            "translation": "Because Statify uses MongoDB, the bot is ultra fast. This means: Instant Loading of Configs and other stuff."
+        },
+        {
+            "placeholder": "navigation.branding",
+            "translation": "Branding"
+        },
+        {
+            "placeholder": "navigation.privacy",
+            "translation": "Privacy Policy"
+        },
+        {
+            "placeholder": "footer.copyright",
+            "translation": "© Statify Team 2020"
         }
     ]
 }
