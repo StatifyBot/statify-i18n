@@ -20,9 +20,9 @@ These translations are unlike the bot translations fully in JSON and not in `*.p
 
 #### Languages done:
 - [x] EN_gb
-- [ ] EN_au
-- [ ] EN_nz
-- [ ] EN_us
+- [x] EN_au
+- [x] EN_nz
+- [x] EN_us
 - [x] DE_de
 - [ ] DE_at
 - [ ] ES_es
