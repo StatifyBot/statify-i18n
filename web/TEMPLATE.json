@@ -28,10 +28,6 @@
             "translation": "Page not found"
         },
         {
-            "placeholder": "navigation.home",
-            "translation": "Home"
-        },
-        {
             "placeholder": "navigation.bot-invite",
             "translation": "Invite the Bot"
         },
@@ -49,7 +45,7 @@
         },
         {
             "placeholder": "home.features.description",
-            "translation": "Page not found"
+            "translation": "All our features in one place"
         },
         {
             "placeholder": "home.features.1.title",

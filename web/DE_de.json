@@ -5,7 +5,7 @@
         },
         {
             "placeholder": "meta.description",
-            "translation": "Der fortschrittliste Statistiken Bot auf Discord"
+            "translation": "Der beste Statistiken Discord Bot"
         },
         {
             "placeholder": "navigation.home",
@@ -26,6 +26,54 @@
         {
             "placeholder": "error.404",
             "translation": "Seite nicht gefunden"
+        },
+        {
+            "placeholder": "navigation.bot-invite",
+            "translation": "Bot einladen"
+        },
+        {
+            "placeholder": "navigation.team",
+            "translation": "Unser Team"
+        },
+        {
+            "placeholder": "home.get-bot",
+            "translation": "Hol dir jetzt Statify"
+        },
+        {
+            "placeholder": "home.category.features",
+            "translation": "Features"
+        },
+        {
+            "placeholder": "home.features.description",
+            "translation": "Alle unsere Features am einen Platz"
+        },
+        {
+            "placeholder": "home.features.1.title",
+            "translation": "Immer verfügbar"
+        },
+        {
+            "placeholder": "home.features.1.description",
+            "translation": "Statify läuft auf komplexer Software, was es ermöglicht den Bot 24/7 online zu lassen."
+        },
+        {
+            "placeholder": "home.features.2.title",
+            "translation": "Schnell"
+        },
+        {
+            "placeholder": "home.features.2.description",
+            "translation": "Weil Statify nutzt MongoDB, ist der Bot ultra schnell. Das heißt: Sofortiges Laden von Statistiken."
+        },
+        {
+            "placeholder": "navigation.branding",
+            "translation": "Branding"
+        },
+        {
+            "placeholder": "navigation.privacy",
+            "translation": "Datenschutzrichtlinien"
+        },
+        {
+            "placeholder": "footer.copyright",
+            "translation": "© Statify Team 2020"
         }
     ]
 }
