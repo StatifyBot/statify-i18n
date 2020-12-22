@@ -78,6 +78,54 @@
         {
             "placeholder": "navigation.commands",
             "translation": "Befehle"
+        },
+        {
+            "placeholder": "branding.description",
+            "translation": "Unsere Designs werden von Stepandichuk gemacht. Übrigens, Danke dafür."
+        },
+        {
+            "placeholder": "branding.made-by",
+            "translation": "Gemacht von"
+        },
+        {
+            "placeholder": "commands.table.title.1",
+            "translation": "Befehl"
+        },
+        {
+            "placeholder": "commands.table.title.2",
+            "translation": "Beispiel"
+        },
+        {
+            "placeholder": "commands.table.title.3",
+            "translation": "Beschreibung"
+        },
+        {
+            "placeholder": "commands.desc.1",
+            "translation": "Ändert den Befehl des aktuellen Guilds."
+        },
+        {
+            "placeholder": "commands.desc.2",
+            "translation": "Zeigt dir eine Liste mit allen Befehlen."
+        },
+        {
+            "placeholder": "commands.desc.3",
+            "translation": "Ändert die von Guild verwendete Sprache."
+        },
+        {
+            "placeholder": "commands.desc.4",
+            "translation": "Erstellt eine neue Statistiken-Nachricht in erwähnten Text-Kanal mit den ausgewählten Statistiken. Du findest eine Liste mit allen Statistiken weiter unten."
+        },
+        {
+            "placeholder": "commands.desc.5",
+            "translation": "Fügt Statistiken zu ausgewählten Statistiken-Nachricht hinzu. Du findest eine Liste mit allen Statistiken weiter unten."
+        },
+        {
+            "placeholder": "error",
+            "translation": "Fehler"
+        },
+        {
+            "placeholder": "error.return",
+            "translation": "Zurück zur Startseite"
         }
     ]
 }

@@ -78,6 +78,54 @@
         {
             "placeholder": "navigation.commands",
             "translation": "Commands"
+        },
+        {
+            "placeholder": "branding.description",
+            "translation": "Our designs are being made by Stepandichuk. Thanks for that, by the way."
+        },
+        {
+            "placeholder": "branding.made-by",
+            "translation": "Made by"
+        },
+        {
+            "placeholder": "commands.table.title.1",
+            "translation": "Command"
+        },
+        {
+            "placeholder": "commands.table.title.2",
+            "translation": "Example"
+        },
+        {
+            "placeholder": "commands.table.title.3",
+            "translation": "Description"
+        },
+        {
+            "placeholder": "commands.desc.1",
+            "translation": "Changes the Prefix of the current server."
+        },
+        {
+            "placeholder": "commands.desc.2",
+            "translation": "Shows you a list of commands and features."
+        },
+        {
+            "placeholder": "commands.desc.3",
+            "translation": "Changes the language thats used on the server."
+        },
+        {
+            "placeholder": "commands.desc.4",
+            "translation": "Create a new Statistic Message in the mentioned text channel with the given stats. You can find a list with all stats below."
+        },
+        {
+            "placeholder": "commands.desc.5",
+            "translation": "Adds stats to a specific Statistic Message. You can find a list with all stats below."
+        },
+        {
+            "placeholder": "error",
+            "translation": "Error"
+        },
+        {
+            "placeholder": "error.return",
+            "translation": "Return to home"
         }
     ]
 }
