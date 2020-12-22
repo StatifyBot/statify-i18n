@@ -74,6 +74,10 @@
         {
             "placeholder": "footer.copyright",
             "translation": "© Statify Team 2020"
+        },
+        {
+            "placeholder": "navigation.commands",
+            "translation": "Befehle"
         }
     ]
 }
