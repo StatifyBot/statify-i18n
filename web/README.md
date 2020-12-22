@@ -16,3 +16,17 @@ These translations are unlike the bot translations fully in JSON and not in `*.p
 - Open the file by clicking on it and clicking on the pen.
 - Translate the file.<br>
   Note: `"placeholder": "dont.ever.touch.this", "translation": "Translate this"`
+
+
+#### Languages done:
+- [x] EN_gb
+- [ ] EN_au
+- [ ] EN_nz
+- [ ] EN_us
+- [x] DE_de
+- [ ] DE_at
+- [ ] ES_es
+- [ ] FR_fr
+- [ ] RO_ro
+- [ ] RU_ru
+- [ ] BG_bg
