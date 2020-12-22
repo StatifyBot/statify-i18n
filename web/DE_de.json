@@ -126,6 +126,42 @@
         {
             "placeholder": "error.return",
             "translation": "Zurück zur Startseite"
+        },
+        {
+            "placeholder": "commands.desc.6",
+            "translation": "Entfernt eine Statistik der Statistiken Nachricht."
+        },
+        {
+            "placeholder": "commands.desc.7",
+            "translation": "Löscht die Statistiken Nachricht."
+        },
+        {
+            "placeholder": "commands.desc.8",
+            "translation": "Ändert die Farbe der deiner Statistiken Nachricht."
+        },
+        {
+            "placeholder": "commands.desc.9",
+            "translation": "Ändert den Update-Interval deiner Statistiken Nachricht."
+        },
+        {
+            "placeholder": "commands.desc.10",
+            "translation": "Zeigt dir ein Diagramm mit der Anzahl der Mitglieder der letzen Tage."
+        },
+        {
+            "placeholder": "commands.desc.11",
+            "translation": "Ändere das Logo deiner Statistiken Nachricht."
+        },
+        {
+            "placeholder": "commands.desc.12",
+            "translation": "Ändere den Banner deiner Statistiken Nachricht."
+        },
+        {
+            "placeholder": "commands.desc.13",
+            "translation": "Ändere die Beschreibung deiner Statistiken Nachricht."
+        },
+        {
+            "placeholder": "tooltip.premium-only",
+            "translation": "Nur für Statify-Premium Nutzer/Guilds!"
         }
     ]
 }

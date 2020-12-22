@@ -126,6 +126,42 @@
         {
             "placeholder": "error.return",
             "translation": "Return to home"
+        },
+        {
+            "placeholder": "commands.desc.6",
+            "translation": "Removes stats from a specific Statistic Message. You can find a list with all stats below."
+        },
+        {
+            "placeholder": "commands.desc.7",
+            "translation": "Deletes a Statistic Message."
+        },
+        {
+            "placeholder": "commands.desc.8",
+            "translation": "Sets the color of a Statistic Message to the given hex code."
+        },
+        {
+            "placeholder": "commands.desc.9",
+            "translation": "Changes the Update Interval for the Statistic Message."
+        },
+        {
+            "placeholder": "commands.desc.10",
+            "translation": "Shows you a chart of your Membercount in the last 30 days."
+        },
+        {
+            "placeholder": "commands.desc.11",
+            "translation": "Change the icon that is shown in your Statistic Message."
+        },
+        {
+            "placeholder": "commands.desc.12",
+            "translation": "Change the banner that is shown in your Statistic Message."
+        },
+        {
+            "placeholder": "commands.desc.13",
+            "translation": "Change the description that is shown in your Statistic Message."
+        },
+        {
+            "placeholder": "tooltip.premium-only",
+            "translation": "For Statify-Premium Users/Guilds only!"
         }
     ]
 }
