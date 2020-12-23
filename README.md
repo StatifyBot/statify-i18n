@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/forks/StatifyBot/statify-i18n?label=Forks)
 ![](https://img.shields.io/github/commit-activity/m/StatifyBot/statify-i18n)
 ![](https://img.shields.io/github/stars/StatifyBot/statify-i18n?label=Stars)
-![http://statifybot.net](https://img.shields.io/website?label=Website&url=http%3A%2F%2Fstatify.net)
+![http://statifybot.net](https://img.shields.io/website?label=Website&url=http%3A%2F%2Fstatifybot.net)
 <!-- Replace with new domain, as soon, as we get the new domain. -->
 
 Translation files for the Statify Discord Bot and our Website. You will get a Translator role in the Discord Server upon approval. Have fun translating!<br>
