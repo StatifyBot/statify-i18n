@@ -19,14 +19,11 @@ These translations are unlike the bot translations fully in JSON and not in `*.p
 
 
 #### Languages done:
-- [x] EN_gb
-- [x] EN_au
-- [x] EN_nz
-- [x] EN_us
-- [x] DE_de
-- [ ] DE_at
-- [ ] ES_es
-- [ ] FR_fr
-- [ ] RO_ro
-- [ ] RU_ru
-- [ ] BG_bg
+- [x] en_GB
+- [x] en_us
+- [x] de
+- [ ] es
+- [ ] fr
+- [ ] ro
+- [ ] ru
+- [ ] bg

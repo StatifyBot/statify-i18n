@@ -17,7 +17,7 @@
         },
         {
             "placeholder": "navigation.add-bot",
-            "translation": "Zu deinen Server hinzufügen"
+            "translation": "Zu deinem Server hinzufügen"
         },
         {
             "placeholder": "error.400",
@@ -53,7 +53,7 @@
         },
         {
             "placeholder": "home.features.1.description",
-            "translation": "Statify läuft auf komplexer Software, was es ermöglicht den Bot 24/7 online zu lassen."
+            "translation": "Statify läuft auf einer komplexen Software, was ermöglicht, dass der Bot 24/7 online ist."
         },
         {
             "placeholder": "home.features.2.title",
@@ -61,7 +61,7 @@
         },
         {
             "placeholder": "home.features.2.description",
-            "translation": "Weil Statify nutzt MongoDB, ist der Bot ultra schnell. Das heißt: Sofortiges Laden von Statistiken."
+            "translation": "Statify nutzt MongoDB, Somit ist der Bot ultra schnell. Das heißt: Sofortiges Laden von Statistiken."
         },
         {
             "placeholder": "navigation.branding",
@@ -137,7 +137,7 @@
         },
         {
             "placeholder": "commands.desc.8",
-            "translation": "Ändert die Farbe der deiner Statistiken Nachricht."
+            "translation": "Ändert die Farbe deiner Statistiken Nachricht."
         },
         {
             "placeholder": "commands.desc.9",
@@ -149,11 +149,11 @@
         },
         {
             "placeholder": "commands.desc.11",
-            "translation": "Ändere das Logo deiner Statistiken Nachricht."
+            "translation": "Ändere mit diesem Befehl das Logo deiner Statistiken Nachricht."
         },
         {
             "placeholder": "commands.desc.12",
-            "translation": "Ändere den Banner deiner Statistiken Nachricht."
+            "translation": "Ändere das Banner deiner Statistiken Nachricht."
         },
         {
             "placeholder": "commands.desc.13",
@@ -173,19 +173,19 @@
         },
         {
             "placeholder": "stats.desc.1",
-            "translation": "Fügt ein leeres Feld ein."
+            "translation": "Fügt ein leeres Feld hinzu."
         },
         {
             "placeholder": "stats.desc.2",
-            "translation": "Zeigt die Menge der Nutzer an."
+            "translation": "Zeigt die Nutzer Anzahl auf deinem Server an."
         },
         {
             "placeholder": "stats.desc.3",
-            "translation": "Zeigt die Menge der Bots an."
+            "translation": "Zeigt die Bot Anzahl auf deinem Server an."
         },
         {
             "placeholder": "stats.desc.4",
-            "translation": "Zeigt die Menge der Nutzer, die online sind an."
+            "translation": "Zeigt die Menge der Nutzer an, die Online sind an."
         },
         {
             "placeholder": "stats.desc.5",
