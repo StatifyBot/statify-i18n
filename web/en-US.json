@@ -274,6 +274,10 @@
         {
             "placeholder": "commands.perm.view-insights",
             "translation": "View Insights"
+        },
+        {
+            "placeholder": "commands.table.title.4",
+            "translation": "Permissions"
         }
     ]
 }
