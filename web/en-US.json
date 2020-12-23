@@ -278,6 +278,10 @@
         {
             "placeholder": "commands.table.title.4",
             "translation": "Permissions"
+        },
+        {
+            "placeholder": "privacy.policy",
+            "translation": "We&#39;re taking privacy very serious.<br />Here are our privacy policies.<br /><br />We only save a small amount of your data.<br /><br /><strong>For Guilds</strong>, that would be,<br /> the <strong>ID</strong> given by Discord to the Guild,<br /> The current <strong>Statify-Prefix</strong> set on the Guild,<br /> the <strong>Language of the guild</strong>,<br /> if the Guild has <strong>Statify Premium</strong> and if the Guild was <strong>banned </strong>from usage of the Statify bot.<br /><br /><strong>For Users</strong>, that would be,<br />the <strong>ID </strong>given by Discord to the User,<br />if the user has <strong>premium</strong>,<br />which <strong>Team-Level</strong> (s)he has (If (s)he is even in the <strong>team</strong>),<br />which<strong> premium-guilds</strong> belong to her/him<br />and the <strong>maximal count</strong> of <strong>premium-guilds</strong> for her/him.<br /><br />"
         }
     ]
 }
