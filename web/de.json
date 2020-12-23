@@ -162,6 +162,122 @@
         {
             "placeholder": "tooltip.premium-only",
             "translation": "Nur für Statify-Premium Nutzer/Guilds!"
+        },
+        {
+            "placeholder": "stats.table.title.1",
+            "translation": "Statistiken"
+        },
+        {
+            "placeholder": "stats.table.title.2",
+            "translation": "Beschreibung"
+        },
+        {
+            "placeholder": "stats.desc.1",
+            "translation": "Fügt ein leeres Feld ein."
+        },
+        {
+            "placeholder": "stats.desc.2",
+            "translation": "Zeigt die Menge der Nutzer an."
+        },
+        {
+            "placeholder": "stats.desc.3",
+            "translation": "Zeigt die Menge der Bots an."
+        },
+        {
+            "placeholder": "stats.desc.4",
+            "translation": "Zeigt die Menge der Nutzer, die online sind an."
+        },
+        {
+            "placeholder": "stats.desc.5",
+            "translation": "Zeigt die Menge der Nutzer in Sprachkanälen an."
+        },
+        {
+            "placeholder": "stats.desc.6",
+            "translation": "Zeigt die Menge der Textkanäle an."
+        },
+        {
+            "placeholder": "stats.desc.7",
+            "translation": "Zeigt die Menge der Sprachkanäle an."
+        },
+        {
+            "placeholder": "stats.desc.8",
+            "translation": "Zeigt die Menge der Kategorien an."
+        },
+        {
+            "placeholder": "stats.desc.9",
+            "translation": "Zeigt die Menge der Kanälen und Kategorien an."
+        },
+        {
+            "placeholder": "stats.desc.10",
+            "translation": "Zeigt die Menge der Shop-Kanäle an."
+        },
+        {
+            "placeholder": "stats.desc.11",
+            "translation": "Zeigt die Menge der normalen Emojis an."
+        },
+        {
+            "placeholder": "stats.desc.12",
+            "translation": "Zeigt die Menge der animierten Emojis an."
+        },
+        {
+            "placeholder": "stats.desc.13",
+            "translation": "Zeigt die Menge der Emojis an."
+        },
+        {
+            "placeholder": "stats.desc.14",
+            "translation": "Zeigt die Menge der Boosts an."
+        },
+        {
+            "placeholder": "stats.desc.15",
+            "translation": "Zeigt das Boost-Level an."
+        },
+        {
+            "placeholder": "stats.desc.16",
+            "translation": "Zeigt das Alter des Guilds an."
+        },
+        {
+            "placeholder": "stats.desc.17",
+            "translation": "Zeigt das Datum der Erstellungen des Guilds an."
+        },
+        {
+            "placeholder": "stats.desc.18",
+            "translation": "Zeigt den Besitzer des Guilds an."
+        },
+        {
+            "placeholder": "stats.desc.19",
+            "translation": "Zeigt die Menge der Rollen an."
+        },
+        {
+            "placeholder": "stats.desc.20",
+            "translation": "Zeigt die Menge der gebannten Nutzer an."
+        },
+        {
+            "placeholder": "stats.desc.21",
+            "translation": "Zeigt die Menge der Einladungen an."
+        },
+        {
+            "placeholder": "stats.desc.22",
+            "translation": "Zeigt die Menge der WebHooks an."
+        },
+        {
+            "placeholder": "commands.perm.everyone",
+            "translation": "@everyone"
+        },
+        {
+            "placeholder": "commands.perm.manage-server",
+            "translation": "Server verwalten"
+        },
+        {
+            "placeholder": "commands.perm.admin",
+            "translation": "Administrator"
+        },
+        {
+            "placeholder": "commands.perm.view-insights",
+            "translation": "Einblicke einsehen"
+        },
+        {
+            "placeholder": "commands.table.title.4",
+            "translation": "Rechte"
         }
     ]
 }
