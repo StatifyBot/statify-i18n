@@ -258,6 +258,22 @@
         {
             "placeholder": "stats.desc.22",
             "translation": "Shows the amount of webhooks."
+        },
+        {
+            "placeholder": "commands.perm.everyone",
+            "translation": "@everyone"
+        },
+        {
+            "placeholder": "commands.perm.manage-server",
+            "translation": "Manage Server"
+        },
+        {
+            "placeholder": "commands.perm.admin",
+            "translation": "Administrator"
+        },
+        {
+            "placeholder": "commands.perm.view-insights",
+            "translation": "View Insights"
         }
     ]
 }
