@@ -5,7 +5,7 @@
         },
         {
             "placeholder": "meta.description",
-            "translation": "The most advanced Statistic Discord Bot"
+            "translation": "The most advanced statistic Discord bot"
         },
         {
             "placeholder": "navigation.home",
@@ -37,7 +37,7 @@
         },
         {
             "placeholder": "home.get-bot",
-            "translation": "Get Statify Now"
+            "translation": "Get Statify"
         },
         {
             "placeholder": "home.category.features",
@@ -53,15 +53,15 @@
         },
         {
             "placeholder": "home.features.1.description",
-            "translation": "Statify runs using a complex backend making it possible to be 24/7 online."
+            "translation": "Statify runs using a complex backend system, allowing it to run at all times."
         },
         {
             "placeholder": "home.features.2.title",
-            "translation": "Fast"
+            "translation": "Quick and Responsive"
         },
         {
             "placeholder": "home.features.2.description",
-            "translation": "Because Statify uses MongoDB, the bot is ultra fast. This means: Instant Loading of Configs and other stuff."
+            "translation": "Because Statify uses MongoDB, the bot is really fast. This means, very fast loading times."
         },
         {
             "placeholder": "navigation.branding",
@@ -81,7 +81,7 @@
         },
         {
             "placeholder": "branding.description",
-            "translation": "Our designs are being made by Stepandichuk. Thanks for that, by the way."
+            "translation": "Our designs are made by Stepandichuk. Thanks for that, by the way."
         },
         {
             "placeholder": "branding.made-by",
@@ -101,7 +101,7 @@
         },
         {
             "placeholder": "commands.desc.1",
-            "translation": "Changes the Prefix of the current server."
+            "translation": "Changes the prefix of the current server."
         },
         {
             "placeholder": "commands.desc.2",
@@ -109,15 +109,15 @@
         },
         {
             "placeholder": "commands.desc.3",
-            "translation": "Changes the language thats used on the server."
+            "translation": "Changes the language that is used on the server."
         },
         {
             "placeholder": "commands.desc.4",
-            "translation": "Create a new Statistic Message in the mentioned text channel with the given stats. You can find a list with all stats below."
+            "translation": "Create a new statistic in the mentioned text channel with the given stats. You can find a list with all stats below."
         },
         {
             "placeholder": "commands.desc.5",
-            "translation": "Adds stats to a specific Statistic Message. You can find a list with all stats below."
+            "translation": "Adds stats to a specific statistic."
         },
         {
             "placeholder": "error",
@@ -129,39 +129,39 @@
         },
         {
             "placeholder": "commands.desc.6",
-            "translation": "Removes stats from a specific Statistic Message. You can find a list with all stats below."
+            "translation": "Removes stats from a specific statistic."
         },
         {
             "placeholder": "commands.desc.7",
-            "translation": "Deletes a Statistic Message."
+            "translation": "Deletes a statistic."
         },
         {
             "placeholder": "commands.desc.8",
-            "translation": "Sets the color of a Statistic Message to the given hex code."
+            "translation": "Sets the color of a statistic to the given color code."
         },
         {
             "placeholder": "commands.desc.9",
-            "translation": "Changes the Update Interval for the Statistic Message."
+            "translation": "Changes the update interval for the statistic."
         },
         {
             "placeholder": "commands.desc.10",
-            "translation": "Shows you a chart of your Membercount in the last 30 days."
+            "translation": "Shows you a chart of your membercount in the last 30 days."
         },
         {
             "placeholder": "commands.desc.11",
-            "translation": "Change the icon that is shown in your Statistic Message."
+            "translation": "Changes the icon that is shown in your statistic."
         },
         {
             "placeholder": "commands.desc.12",
-            "translation": "Change the banner that is shown in your Statistic Message."
+            "translation": "Changes the banner that is shown in your statistic."
         },
         {
             "placeholder": "commands.desc.13",
-            "translation": "Change the description that is shown in your Statistic Message."
+            "translation": "Changes the description that is shown in your statistic."
         },
         {
             "placeholder": "tooltip.premium-only",
-            "translation": "For Statify-Premium Users/Guilds only!"
+            "translation": "For Statify Premium users / guilds only!"
         },
         {
             "placeholder": "stats.table.title.1",

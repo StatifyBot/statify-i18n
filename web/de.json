@@ -37,7 +37,7 @@
         },
         {
             "placeholder": "home.get-bot",
-            "translation": "Hol dir jetzt Statify"
+            "translation": "Hol dir Statify"
         },
         {
             "placeholder": "home.category.features",
@@ -53,7 +53,7 @@
         },
         {
             "placeholder": "home.features.1.description",
-            "translation": "Statify läuft auf einer komplexen Software, was ermöglicht, dass der Bot 24/7 online ist."
+            "translation": "Statify läuft auf einer komplexen Software, die ermöglicht, dass der Bot jeder Zeit verfügbar ist."
         },
         {
             "placeholder": "home.features.2.title",
@@ -61,7 +61,7 @@
         },
         {
             "placeholder": "home.features.2.description",
-            "translation": "Statify nutzt MongoDB, Somit ist der Bot ultra schnell. Das heißt: Sofortiges Laden von Statistiken."
+            "translation": "Statify nutzt MongoDB, somit ist der Bot sehr schnell. Das heißt: Sofortige Ladezeiten."
         },
         {
             "placeholder": "navigation.branding",
@@ -113,11 +113,11 @@
         },
         {
             "placeholder": "commands.desc.4",
-            "translation": "Erstellt eine neue Statistiken-Nachricht in erwähnten Text-Kanal mit den ausgewählten Statistiken. Du findest eine Liste mit allen Statistiken weiter unten."
+            "translation": "Erstellt eine neue Statistik in erwähnten Text-Kanal mit den ausgewählten Statistiken. Du findest eine Liste mit allen Statistiken weiter unten."
         },
         {
             "placeholder": "commands.desc.5",
-            "translation": "Fügt Statistiken zu ausgewählten Statistiken-Nachricht hinzu. Du findest eine Liste mit allen Statistiken weiter unten."
+            "translation": "Fügt Statistiken zu ausgewählten Statistik hinzu. Du findest eine Liste mit allen Statistiken weiter unten."
         },
         {
             "placeholder": "error",
@@ -149,19 +149,19 @@
         },
         {
             "placeholder": "commands.desc.11",
-            "translation": "Ändere mit diesem Befehl das Logo deiner Statistiken Nachricht."
+            "translation": "Ändert mit diesem Befehl das Logo deiner Statistiken Nachricht."
         },
         {
             "placeholder": "commands.desc.12",
-            "translation": "Ändere das Banner deiner Statistiken Nachricht."
+            "translation": "Ändert das Banner deiner Statistiken Nachricht."
         },
         {
             "placeholder": "commands.desc.13",
-            "translation": "Ändere die Beschreibung deiner Statistiken Nachricht."
+            "translation": "Ändert die Beschreibung deiner Statistiken Nachricht."
         },
         {
             "placeholder": "tooltip.premium-only",
-            "translation": "Nur für Statify-Premium Nutzer/Guilds!"
+            "translation": "Nur für Statify-Premium Nutzer / Guilds!"
         },
         {
             "placeholder": "stats.table.title.1",
