@@ -5,7 +5,7 @@
         },
         {
             "placeholder": "meta.description",
-            "translation": "The most advanced Statistic Discord Bot"
+            "translation": "The most advanced Discord Bot for Statistics"
         },
         {
             "placeholder": "navigation.home",
@@ -45,7 +45,7 @@
         },
         {
             "placeholder": "home.features.description",
-            "translation": "All our features in one place"
+            "translation": "All your features in one place"
         },
         {
             "placeholder": "home.features.1.title",
@@ -57,7 +57,7 @@
         },
         {
             "placeholder": "home.features.2.title",
-            "translation": "Fast"
+            "translation": "Quick and Responsive"
         },
         {
             "placeholder": "home.features.2.description",
@@ -81,7 +81,7 @@
         },
         {
             "placeholder": "branding.description",
-            "translation": "Our designs are being made by Stepandichuk. Thanks for that, by the way."
+            "translation": "Our designs were mady by Stepandichuk. Thanks alot!"
         },
         {
             "placeholder": "branding.made-by",
