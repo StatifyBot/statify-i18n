@@ -5,7 +5,7 @@
         },
         {
             "placeholder": "meta.description",
-            "translation": "The most advanced statistic Discord bot"
+            "translation": "The most advanced Discord bot for statistics"
         },
         {
             "placeholder": "navigation.home",
@@ -45,7 +45,7 @@
         },
         {
             "placeholder": "home.features.description",
-            "translation": "All our features in one place"
+            "translation": "All your features in one place"
         },
         {
             "placeholder": "home.features.1.title",
@@ -53,7 +53,7 @@
         },
         {
             "placeholder": "home.features.1.description",
-            "translation": "Statify runs using a complex backend system, allowing it to run at all times."
+            "translation": "Because Statify runs with an complex backend system, it will run all times."
         },
         {
             "placeholder": "home.features.2.title",
@@ -61,7 +61,7 @@
         },
         {
             "placeholder": "home.features.2.description",
-            "translation": "Because Statify uses MongoDB, the bot is really fast. This means, very fast loading times."
+            "translation": "Statify uses MongoDB, thats why the bot is really fast and you will have fast loading times"
         },
         {
             "placeholder": "navigation.branding",
@@ -81,7 +81,7 @@
         },
         {
             "placeholder": "branding.description",
-            "translation": "Our designs are made by Stepandichuk. Thanks for that, by the way."
+            "translation": "Our designs are made by Stepandichuk. Thanks for that!"
         },
         {
             "placeholder": "branding.made-by",
@@ -105,11 +105,11 @@
         },
         {
             "placeholder": "commands.desc.2",
-            "translation": "Shows you a list of commands and features."
+            "translation": "Shows you a list of all commands and features."
         },
         {
             "placeholder": "commands.desc.3",
-            "translation": "Changes the language that is used on the server."
+            "translation": "Changes the language that is used on your server."
         },
         {
             "placeholder": "commands.desc.4",
@@ -229,7 +229,7 @@
         },
         {
             "placeholder": "stats.desc.15",
-            "translation": "Shows to boost level."
+            "translation": "Shows the boost level."
         },
         {
             "placeholder": "stats.desc.16",
