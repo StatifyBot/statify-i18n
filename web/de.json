@@ -282,6 +282,18 @@
         {
             "placeholder": "privacy.policy",
             "translation": "Wir nehmen Datenschutz sehr ernst.<br />Hier sind unsere Datenschutzrichtlinien.<br /><br />Wir speichern nur einen kleinen Teil deiner Daten.<br /><br /><strong>Für Gilden</strong>, wäre das,<br /> die <strong>ID</strong> die von Discord der Gilde zugewiesen wurde,<br /> Das aktuelle <strong>Statify-Prefix</strong> das auf der Gilde festgelegt ist,<br /> die <strong>Sprache der Gilde</strong>,<br /> ob die Gilde <strong>Statify Premium</strong> hat und und ob die Gilde von der Benutzung des Statify Bots <strong>gebannt</strong> wurde.<br /><br /><strong>Für Benutzer</strong>, wäre das,<br />die <strong>ID</strong> die von Discord dem Benutzer zugewiesen wurde,<br />ob der Benutzer <strong>Statify Premium</strong> hat,<br />welches <strong>Team-Level</strong> Er/Sie hat (Ob Er/Sie überhaupt im <strong>Team</strong> ist),<br />welche <strong>Premium-Gilden</strong> ihm/ihr gehören<br />und die <strong>maximale Anzahl</strong> von <strong>Premium-Gilden</strong> für sie/ihn.<br /><br />"
+        },
+        {
+            "placeholder": "home.numbers.desc.1",
+            "translation": "Nutzer nutzen Statify."
+        },
+        {
+            "placeholder": "home.numbers.desc.2",
+            "translation": "Guilds nutzen Statify."
+        },
+        {
+            "placeholder": "home.numbers.desc.3",
+            "translation": "Statistiken wurden mit Statify erstellt."
         }
     ]
 }
