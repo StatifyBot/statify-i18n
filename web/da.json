@@ -1,0 +1,324 @@
+{
+    "strings": [{
+            "placeholder": "meta.title",
+            "translation": "Statify"
+        },
+        {
+            "placeholder": "meta.description",
+            "translation": "The most advanced Statistic Discord Bot"
+        },
+        {
+            "placeholder": "navigation.home",
+            "translation": "Home"
+        },
+        {
+            "placeholder": "navigation.guild",
+            "translation": "Guild"
+        },
+        {
+            "placeholder": "navigation.add-bot",
+            "translation": "Add to your server"
+        },
+        {
+            "placeholder": "error.400",
+            "translation": "Bad Request"
+        },
+        {
+            "placeholder": "error.404",
+            "translation": "Page not found"
+        },
+        {
+            "placeholder": "navigation.bot-invite",
+            "translation": "Invite the Bot"
+        },
+        {
+            "placeholder": "navigation.team",
+            "translation": "Our Team"
+        },
+        {
+            "placeholder": "home.get-bot",
+            "translation": "Get Statify Now"
+        },
+        {
+            "placeholder": "home.category.features",
+            "translation": "Features"
+        },
+        {
+            "placeholder": "home.features.description",
+            "translation": "All our features in one place"
+        },
+        {
+            "placeholder": "home.features.1.title",
+            "translation": "Always available"
+        },
+        {
+            "placeholder": "home.features.1.description",
+            "translation": "Statify runs using a complex backend making it possible to be 24/7 online."
+        },
+        {
+            "placeholder": "home.features.2.title",
+            "translation": "Fast"
+        },
+        {
+            "placeholder": "home.features.2.description",
+            "translation": "Because Statify uses MongoDB, the bot is ultra fast. This means: Instant Loading of Configs and other stuff."
+        },
+        {
+            "placeholder": "navigation.branding",
+            "translation": "Branding"
+        },
+        {
+            "placeholder": "navigation.privacy",
+            "translation": "Privacy Policy"
+        },
+        {
+            "placeholder": "footer.copyright",
+            "translation": "© Statify Team 2020"
+        },
+        {
+            "placeholder": "navigation.commands",
+            "translation": "Commands"
+        },
+        {
+            "placeholder": "branding.description",
+            "translation": "Our designs are being made by Stepandichuk. Thanks for that, by the way."
+        },
+        {
+            "placeholder": "branding.made-by",
+            "translation": "Made by"
+        },
+        {
+            "placeholder": "commands.table.title.1",
+            "translation": "Command"
+        },
+        {
+            "placeholder": "commands.table.title.2",
+            "translation": "Example"
+        },
+        {
+            "placeholder": "commands.table.title.3",
+            "translation": "Description"
+        },
+        {
+            "placeholder": "commands.desc.1",
+            "translation": "Changes the Prefix of the current server."
+        },
+        {
+            "placeholder": "commands.desc.2",
+            "translation": "Shows you a list of commands and features."
+        },
+        {
+            "placeholder": "commands.desc.3",
+            "translation": "Changes the language thats used on the server."
+        },
+        {
+            "placeholder": "commands.desc.4",
+            "translation": "Create a new Statistic Message in the mentioned text channel with the given stats. You can find a list with all stats below."
+        },
+        {
+            "placeholder": "commands.desc.5",
+            "translation": "Adds stats to a specific Statistic Message. You can find a list with all stats below."
+        },
+        {
+            "placeholder": "error",
+            "translation": "Error"
+        },
+        {
+            "placeholder": "error.return",
+            "translation": "Return to home"
+        },
+        {
+            "placeholder": "commands.desc.6",
+            "translation": "Removes stats from a specific Statistic Message. You can find a list with all stats below."
+        },
+        {
+            "placeholder": "commands.desc.7",
+            "translation": "Deletes a Statistic Message."
+        },
+        {
+            "placeholder": "commands.desc.8",
+            "translation": "Sets the color of a Statistic Message to the given hex code."
+        },
+        {
+            "placeholder": "commands.desc.9",
+            "translation": "Changes the Update Interval for the Statistic Message."
+        },
+        {
+            "placeholder": "commands.desc.10",
+            "translation": "Shows you a chart of your Membercount in the last 30 days."
+        },
+        {
+            "placeholder": "commands.desc.11",
+            "translation": "Change the icon that is shown in your Statistic Message."
+        },
+        {
+            "placeholder": "commands.desc.12",
+            "translation": "Change the banner that is shown in your Statistic Message."
+        },
+        {
+            "placeholder": "commands.desc.13",
+            "translation": "Change the description that is shown in your Statistic Message."
+        },
+        {
+            "placeholder": "tooltip.premium-only",
+            "translation": "For Statify-Premium Users/Guilds only!"
+        },
+        {
+            "placeholder": "stats.table.title.1",
+            "translation": "Statistic"
+        },
+        {
+            "placeholder": "stats.table.title.2",
+            "translation": "Description"
+        },
+        {
+            "placeholder": "stats.desc.1",
+            "translation": "Inserts a blank field."
+        },
+        {
+            "placeholder": "stats.desc.2",
+            "translation": "Shows the amount of users."
+        },
+        {
+            "placeholder": "stats.desc.3",
+            "translation": "Shows the amount of bots."
+        },
+        {
+            "placeholder": "stats.desc.4",
+            "translation": "Shows the amount of users online."
+        },
+        {
+            "placeholder": "stats.desc.5",
+            "translation": "Shows the amount of users in voice channels."
+        },
+        {
+            "placeholder": "stats.desc.6",
+            "translation": "Shows the amount of text channels."
+        },
+        {
+            "placeholder": "stats.desc.7",
+            "translation": "Shows the amount of voice channels."
+        },
+        {
+            "placeholder": "stats.desc.8",
+            "translation": "Shows the amount of categories."
+        },
+        {
+            "placeholder": "stats.desc.9",
+            "translation": "Shows the amount of channels and categories."
+        },
+        {
+            "placeholder": "stats.desc.10",
+            "translation": "Shows the amount of store channels."
+        },
+        {
+            "placeholder": "stats.desc.11",
+            "translation": "Shows the amount of normal emotes."
+        },
+        {
+            "placeholder": "stats.desc.12",
+            "translation": "Shows the amount of animated emotes."
+        },
+        {
+            "placeholder": "stats.desc.13",
+            "translation": "Shows the amount of emotes."
+        },
+        {
+            "placeholder": "stats.desc.14",
+            "translation": "Shows the amount of boots."
+        },
+        {
+            "placeholder": "stats.desc.15",
+            "translation": "Shows to boost level."
+        },
+        {
+            "placeholder": "stats.desc.16",
+            "translation": "Shows the guild's age."
+        },
+        {
+            "placeholder": "stats.desc.17",
+            "translation": "Shows the guild creation date."
+        },
+        {
+            "placeholder": "stats.desc.18",
+            "translation": "Shows the guild's owner."
+        },
+        {
+            "placeholder": "stats.desc.19",
+            "translation": "Shows the amount of roles."
+        },
+        {
+            "placeholder": "stats.desc.20",
+            "translation": "Shows the amount of banned users."
+        },
+        {
+            "placeholder": "stats.desc.21",
+            "translation": "Shows the amount of invites."
+        },
+        {
+            "placeholder": "stats.desc.22",
+            "translation": "Shows the amount of webhooks."
+        },
+        {
+            "placeholder": "commands.perm.everyone",
+            "translation": "@everyone"
+        },
+        {
+            "placeholder": "commands.perm.manage-server",
+            "translation": "Manage Server"
+        },
+        {
+            "placeholder": "commands.perm.admin",
+            "translation": "Administrator"
+        },
+        {
+            "placeholder": "commands.perm.view-insights",
+            "translation": "View Insights"
+        },
+        {
+            "placeholder": "commands.table.title.4",
+            "translation": "Permissions"
+        },
+        {
+            "placeholder": "privacy.policy",
+            "translation": "We&#39;re taking privacy very serious.<br />Here are our privacy policies.<br /><br />We only save a small amount of your data.<br /><br /><strong>For Guilds</strong>, that would be,<br /> the <strong>ID</strong> given by Discord to the Guild,<br /> The current <strong>Statify-Prefix</strong> set on the Guild,<br /> the <strong>Language of the guild</strong>,<br /> if the Guild has <strong>Statify Premium</strong> and if the Guild was <strong>banned </strong>from usage of the Statify bot.<br /><br /><strong>For Users</strong>, that would be,<br />the <strong>ID </strong>given by Discord to the User,<br />if the user has <strong>premium</strong>,<br />which <strong>Team-Level</strong> (s)he has (If (s)he is even in the <strong>team</strong>),<br />which<strong> premium-guilds</strong> belong to her/him<br />and the <strong>maximal count</strong> of <strong>premium-guilds</strong> for her/him.<br /><br />"
+        },
+        {
+            "placeholder": "home.numbers.desc.1",
+            "translation": "Users are using Statify."
+        },
+        {
+            "placeholder": "home.numbers.desc.2",
+            "translation": "Guilds are using Statify."
+        },
+        {
+            "placeholder": "home.numbers.desc.3",
+            "translation": "Statistics created using Statify."
+        },
+        {
+            "placeholder": "stats.desc.23",
+            "translation": "Shows the AFK timeout."
+        },
+        {
+            "placeholder": "stats.desc.24",
+            "translation": "Shows the amout of members that the guild can have."
+        },
+        {
+            "placeholder": "stats.desc.25",
+            "translation": "Shows the amount of members that the guild can have at the same time."
+        },
+        {
+            "placeholder": "stats.desc.26",
+            "translation": "Shows the member thats the newest Booster."
+        },
+        {
+            "placeholder": "stats.desc.27",
+            "translation": "Shows the member thats the longest Booster."
+        },
+        {
+            "placeholder": "stats.desc.28",
+            "translation": "Shows the vanity url."
+        }
+
+    ]
+}
