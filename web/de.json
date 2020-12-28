@@ -294,6 +294,30 @@
         {
             "placeholder": "home.numbers.desc.3",
             "translation": "Statistiken wurden mit Statify erstellt."
+        },
+        {
+            "placeholder": "stats.desc.23",
+            "translation": "Shows the AFK timeout."
+        },
+        {
+            "placeholder": "stats.desc.24",
+            "translation": "Shows the amout of members that the guild can have."
+        },
+        {
+            "placeholder": "stats.desc.25",
+            "translation": "Shows the amount of members that the guild can have at the same time."
+        },
+        {
+            "placeholder": "stats.desc.26",
+            "translation": "Shows the member thats the newest Booster."
+        },
+        {
+            "placeholder": "stats.desc.27",
+            "translation": "Shows the member thats the longest Booster."
+        },
+        {
+            "placeholder": "stats.desc.28",
+            "translation": "Shows the vanity url."
         }
     ]
 }
