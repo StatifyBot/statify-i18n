@@ -5,7 +5,7 @@
         },
         {
             "placeholder": "meta.description",
-            "translation": "Der beste Discord Statistiken Bot"
+            "translation": "Der beste Discord Bot für Statistiken"
         },
         {
             "placeholder": "navigation.home",
@@ -13,7 +13,7 @@
         },
         {
             "placeholder": "navigation.guild",
-            "translation": "Guild"
+            "translation": "Gilde"
         },
         {
             "placeholder": "navigation.add-bot",
@@ -37,15 +37,15 @@
         },
         {
             "placeholder": "home.get-bot",
-            "translation": "Hol dir Statify"
+            "translation": "Hole dir Statify"
         },
         {
             "placeholder": "home.category.features",
-            "translation": "Features"
+            "translation": "Funktionen"
         },
         {
             "placeholder": "home.features.description",
-            "translation": "Alle unsere Features an einem Platz"
+            "translation": "Alle unsere Funktionen an einem Platz"
         },
         {
             "placeholder": "home.features.1.title",
@@ -53,7 +53,7 @@
         },
         {
             "placeholder": "home.features.1.description",
-            "translation": "Statify läuft auf einer komplexen Software, die ermöglicht, dass der Bot jeder Zeit verfügbar ist."
+            "translation": "Statify läuft mithilfe einer komplexen Software, die es dir ermöglicht, dass der Bot jeder Zeit verfügbar ist."
         },
         {
             "placeholder": "home.features.2.title",
@@ -61,11 +61,11 @@
         },
         {
             "placeholder": "home.features.2.description",
-            "translation": "Statify nutzt MongoDB, somit ist der Bot sehr schnell. Das heißt: Sofortige Ladezeiten."
+            "translation": "Aufgrund davon, dass Statify MongoDB verwendet heißt es: „Kurze Ladezeiten."
         },
         {
             "placeholder": "navigation.branding",
-            "translation": "Branding"
+            "translation": "Entwicklung"
         },
         {
             "placeholder": "navigation.privacy",
@@ -81,7 +81,7 @@
         },
         {
             "placeholder": "branding.description",
-            "translation": "Unsere Designs werden von Stepandichuk gemacht. Übrigens, Danke dafür."
+            "translation": "Danke an Stepandichuck, für das erstellen von unseren Designs."
         },
         {
             "placeholder": "branding.made-by",
@@ -101,7 +101,7 @@
         },
         {
             "placeholder": "commands.desc.1",
-            "translation": "Ändert den Befehl des aktuellen Guilds."
+            "translation": "Ändert den Befehl der aktuellen Gilde."
         },
         {
             "placeholder": "commands.desc.2",
@@ -109,7 +109,7 @@
         },
         {
             "placeholder": "commands.desc.3",
-            "translation": "Ändert die von Guild verwendete Sprache."
+            "translation": "Ändert die von der Gilde verwendete Sprache."
         },
         {
             "placeholder": "commands.desc.4",
@@ -141,7 +141,7 @@
         },
         {
             "placeholder": "commands.desc.9",
-            "translation": "Ändert den Update-Interval deiner Statistiken Nachricht."
+            "translation": "Ändert den Update-Intervall deiner Statistiken Nachricht."
         },
         {
             "placeholder": "commands.desc.10",
@@ -161,7 +161,7 @@
         },
         {
             "placeholder": "tooltip.premium-only",
-            "translation": "Nur für Statify-Premium Nutzer / Guilds!"
+            "translation": "Nur für Statify-Premium Nutzer / Gilden!"
         },
         {
             "placeholder": "stats.table.title.1",
@@ -185,79 +185,79 @@
         },
         {
             "placeholder": "stats.desc.4",
-            "translation": "Zeigt die Menge der Nutzer an, die Online sind an."
+            "translation": "Zeigt die Menge der Nutzer, die Online sind."
         },
         {
             "placeholder": "stats.desc.5",
-            "translation": "Zeigt die Menge der Nutzer in Sprachkanälen an."
+            "translation": "Zeigt die Menge der Nutzer in Sprachkanälen."
         },
         {
             "placeholder": "stats.desc.6",
-            "translation": "Zeigt die Menge der Textkanäle an."
+            "translation": "Zeigt die Menge der Textkanäle."
         },
         {
             "placeholder": "stats.desc.7",
-            "translation": "Zeigt die Menge der Sprachkanäle an."
+            "translation": "Zeigt die Menge der Sprachkanäle."
         },
         {
             "placeholder": "stats.desc.8",
-            "translation": "Zeigt die Menge der Kategorien an."
+            "translation": "Zeigt die Menge der Kategorien."
         },
         {
             "placeholder": "stats.desc.9",
-            "translation": "Zeigt die Menge der Kanälen und Kategorien an."
+            "translation": "Zeigt die Menge der Kanälen und der Kategorien."
         },
         {
             "placeholder": "stats.desc.10",
-            "translation": "Zeigt die Menge der Shop-Kanäle an."
+            "translation": "Zeigt die Menge der Shop-Kanäle."
         },
         {
             "placeholder": "stats.desc.11",
-            "translation": "Zeigt die Menge der normalen Emojis an."
+            "translation": "Zeigt die Menge der normalen Emojis."
         },
         {
             "placeholder": "stats.desc.12",
-            "translation": "Zeigt die Menge der animierten Emojis an."
+            "translation": "Zeigt die Menge der animierten Emojis."
         },
         {
             "placeholder": "stats.desc.13",
-            "translation": "Zeigt die Menge der Emojis an."
+            "translation": "Zeigt die Menge der Emojis."
         },
         {
             "placeholder": "stats.desc.14",
-            "translation": "Zeigt die Menge der Boosts an."
+            "translation": "Zeigt die Menge der Boosts."
         },
         {
             "placeholder": "stats.desc.15",
-            "translation": "Zeigt das Boost-Level an."
+            "translation": "Zeigt das Boost-Level."
         },
         {
             "placeholder": "stats.desc.16",
-            "translation": "Zeigt das Alter des Guilds an."
+            "translation": "Zeigt das Alter der Gilde."
         },
         {
             "placeholder": "stats.desc.17",
-            "translation": "Zeigt das Datum der Erstellungen des Guilds an."
+            "translation": "Zeigt das Datum der Erstellungen der Gilde."
         },
         {
             "placeholder": "stats.desc.18",
-            "translation": "Zeigt den Besitzer des Guilds an."
+            "translation": "Zeigt den Besitzer der Gilde."
         },
         {
             "placeholder": "stats.desc.19",
-            "translation": "Zeigt die Menge der Rollen an."
+            "translation": "Zeigt die Menge der Rollen."
         },
         {
             "placeholder": "stats.desc.20",
-            "translation": "Zeigt die Menge der gebannten Nutzer an."
+            "translation": "Zeigt die Menge der gebannten Nutzer."
         },
         {
             "placeholder": "stats.desc.21",
-            "translation": "Zeigt die Menge der Einladungen an."
+            "translation": "Zeigt die Menge der Einladungen."
         },
         {
             "placeholder": "stats.desc.22",
-            "translation": "Zeigt die Menge der WebHooks an."
+            "translation": "Zeigt die Menge der WebHooks."
         },
         {
             "placeholder": "commands.perm.everyone",
@@ -289,7 +289,7 @@
         },
         {
             "placeholder": "home.numbers.desc.2",
-            "translation": "Guilds nutzen Statify."
+            "translation": "Gilden nutzen Statify."
         },
         {
             "placeholder": "home.numbers.desc.3",
@@ -297,27 +297,27 @@
         },
         {
             "placeholder": "stats.desc.23",
-            "translation": "Shows the AFK timeout."
+            "translation": "Zeigt das AFK Timeout."
         },
         {
             "placeholder": "stats.desc.24",
-            "translation": "Shows the amout of members that the guild can have."
+            "translation": "Zeigt die Zahl der Mitglieder, die die Gilde hat."
         },
         {
             "placeholder": "stats.desc.25",
-            "translation": "Shows the amount of members that the guild can have at the same time."
+            "translation": "Zeigt die größe der Mitglieder, die die Gilde gleichzeitig hat."
         },
         {
             "placeholder": "stats.desc.26",
-            "translation": "Shows the member thats the newest Booster."
+            "translation": "Zeigt das Mitglied, welches der letzte Booster ist."
         },
         {
             "placeholder": "stats.desc.27",
-            "translation": "Shows the member thats the longest Booster."
+            "translation": "Zeigt das Mitglied, welches am längsten Booster ist."
         },
         {
             "placeholder": "stats.desc.28",
-            "translation": "Shows the vanity url."
+            "translation": "Zeigt die vanity url."
         }
     ]
 }
