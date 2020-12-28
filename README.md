@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/commit-activity/m/StatifyBot/statify-i18n)
 ![](https://img.shields.io/github/stars/StatifyBot/statify-i18n?label=Stars)
 ![http://statifybot.net](https://img.shields.io/website?label=Website&url=http%3A%2F%2Fstatifybot.net)
-<!-- Replace with new domain, as soon, as we get the new domain. -->
+[![Discord Bots](https://top.gg/api/widget/status/712313116225962077.svg)](https://top.gg/bot/712313116225962077)
 
 Translation files for the Statify Discord Bot and our Website. You will get a Translator role in the Discord Server upon approval. Have fun translating!<br>
 The Bot is currently in Development. Any new messages could be added at every time without any announcements!
