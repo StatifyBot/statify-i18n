@@ -5,6 +5,7 @@
 - [GamingCraft_hd](https://www.gamingcraft.de/)
 - [ARealWant](https://github.com/ARealWant)
 - [Erik](https://github.com/eriik912)
+- [solox](https://github.com/soloxjs)
 - [Fluqzy](https://github.com/Fluqzy)
 - [xPandaGo](https://github.com/xPandaGo)
 - [ThePuddingCODE](https://github.com/ThePuddingCODE)
