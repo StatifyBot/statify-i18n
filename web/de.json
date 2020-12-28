@@ -57,7 +57,7 @@
         },
         {
             "placeholder": "home.features.2.title",
-            "translation": "Schnell"
+            "translation": "Schnelligkeit"
         },
         {
             "placeholder": "home.features.2.description",
@@ -73,7 +73,7 @@
         },
         {
             "placeholder": "footer.copyright",
-            "translation": "© Statify Team 2020"
+            "translation": "© Statify Bot 2020"
         },
         {
             "placeholder": "navigation.commands",
@@ -81,7 +81,7 @@
         },
         {
             "placeholder": "branding.description",
-            "translation": "Danke an Stepandichuck, für das erstellen von unseren Designs."
+            "translation": "Unsere Designs werden mit liebe erstellt 💖."
         },
         {
             "placeholder": "branding.made-by",
@@ -289,7 +289,7 @@
         },
         {
             "placeholder": "home.numbers.desc.2",
-            "translation": "Gilden nutzen Statify."
+            "translation": "Server nutzen Statify."
         },
         {
             "placeholder": "home.numbers.desc.3",
