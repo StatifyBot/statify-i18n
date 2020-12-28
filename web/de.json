@@ -61,11 +61,11 @@
         },
         {
             "placeholder": "home.features.2.description",
-            "translation": "Aufgrund davon, dass Statify MongoDB verwendet heißt es: „Kurze Ladezeiten."
+            "translation": "Statify nutzt MongoDB, somit ist der Bot sehr schnell. Das heißt: Sofortige Ladezeiten."
         },
         {
             "placeholder": "navigation.branding",
-            "translation": "Entwicklung"
+            "translation": "Designs"
         },
         {
             "placeholder": "navigation.privacy",
@@ -101,7 +101,7 @@
         },
         {
             "placeholder": "commands.desc.1",
-            "translation": "Ändert den Befehl der aktuellen Gilde."
+            "translation": "Ändert den Prefix der aktuellen Gilde."
         },
         {
             "placeholder": "commands.desc.2",
@@ -317,7 +317,7 @@
         },
         {
             "placeholder": "stats.desc.28",
-            "translation": "Zeigt die vanity url."
+            "translation": "Zeigt den vanity Link."
         }
     ]
 }
