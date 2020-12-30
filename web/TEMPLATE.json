@@ -318,6 +318,30 @@
         {
             "placeholder": "stats.desc.28",
             "translation": "Shows the vanity url."
+        },
+        {
+            "placeholder": "stats.desc.29",
+            "translation": "Shows the total amount of messages sent in the current guild."
+        },
+        {
+            "placeholder": "stats.desc.30",
+            "translation": "Shows the total amount of minutes spoken in the current guild."
+        },
+        {
+            "placeholder": "stats.desc.31",
+            "translation": "Shows the most active text channel in the current guild."
+        },
+        {
+            "placeholder": "stats.desc.32",
+            "translation": "Shows the most active voice channel in the current guild."
+        },
+        {
+            "placeholder": "stats.desc.33",
+            "translation": "Shows the member with the most minutes spoken in voice chats."
+        },
+        {
+            "placeholder": "stats.desc.34",
+            "translation": "Shows the member with the most messages sent."
         }
 
     ]
