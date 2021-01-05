@@ -342,6 +342,18 @@
         {
             "placeholder": "stats.desc.34",
             "translation": "Shows the member with the most messages sent."
+        },
+        {
+            "placeholder": "stats.desc.35",
+            "translation": "Shows the amount of messages sent today."
+        },
+        {
+            "placeholder": "stats.desc.36",
+            "translation": "Shows the amount of minutes spoken today."
+        },
+        {
+            "placeholder": "commands.desc.14",
+            "translation": "Shows you informations about the Discord Bot."
         }
 
     ]
