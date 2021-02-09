@@ -27,3 +27,4 @@ These translations are unlike the bot translations fully in JSON and not in `*.p
 - [ ] ro
 - [ ] ru
 - [ ] bg
+- [ ] he
