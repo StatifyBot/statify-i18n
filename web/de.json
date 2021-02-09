@@ -29,7 +29,7 @@
         "commands_normal": "Normal Commands",
         "commands_premium": "Premium Commands",
         "features_title": "Features",
-        "features_desc": "Statify ist ein neuer Discord Bot, mit welchem man fortgeschrittene Statistiken über seinen Discord-Server anzeigen kann, Charts generieren kann und viele weitere Dinge machen kann."
+        "features_desc": "Statify ist ein neuer Discord Bot, mit welchem man fortgeschrittene Statistiken über seinen Discord-Server anzeigen kann, Diagramme generieren kann und viele weitere Dinge machen kann."
     },
     "premium": {
         "title": "Statify Premium",
@@ -37,7 +37,7 @@
         "features": {
             "title": "Features",
             "desc": "Hier sind alle Features welche mit Statify Premium freigeschaltet werden.",
-            "1_title": "Schnelleres Hochladen von Statistiken",
+            "1_title": "Schnellere Statistiken",
             "1_desc": "Deine Statistiken werden schneller aktualisiert, somit sind sie immer auf dem neusten Stand",
             "2_title": "Up to 25 Stats in one Statistic Message",
             "2_desc": "You can set up to 25 Stats in on Statistic Message.",
@@ -137,7 +137,7 @@
         "home": "Home",
         "select": "Auswählen",
         "settings": "Einstellungen",
-        "ssettings": "Server Settings",
+        "ssettings": "Server Einstellungen",
         "support": "Support Discord Server",
         "discord": "Discord Server"
     }
