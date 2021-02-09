@@ -1,73 +1,73 @@
 {
     "home": {
-        "title": "It's time to use Statify in your server.",
-        "desc": "Statify is a well made Statistic Discord Bot made for everyone who wants to see how their Server is going that is on Discord Since 2020!",
-        "features_title": "Features of Statify",
-        "features_desc": "We provide you the best features in Statify!",
+        "title": "Настало время использовать Statify на Вашем сервере.",
+        "desc": "Statify - хорошо сделанный бот для Discord, предназначенный для всех тех, кто хочет посмотреть статистику их сервера на Discord с 2020 года!",
+        "features_title": "Особенности бота Statify",
+        "features_desc": "Мы предоставляем Вам лучшие опции бота Statify!",
         "features": {
-            "1_title": "1. Statistics",
-            "1_desc": "Easily create your own Statistics and show the world what your Discord Server has. Change everything including the color, images, language and more!",
-            "2_title": "2. Charts",
-            "2_desc": "See how active your community is and improve your Server by that Data. Automatic Chart tracking and generation for Messages, Voicetime, Useramount and many more!",
-            "3_title": "3. Leaderboard",
-            "3_desc": "Show the world what your community got and battle for the global Top 10 in Messageamount or Voiceactivity. Or just battle between the top 10 in your Server."
+            "1_title": "1. Статистики",
+            "1_desc": "Легко создавайте Ваши статистики и показывайте миру, что имеет Ваш Discord сервер. Вы можете поменять все от цветов, изображений, языка и много всего остального!",
+            "2_title": "2. Графики",
+            "2_desc": "Вы можете смотреть насколько активное Ваше сообщество и улучшить Ваш сервер при помощи этой информации. Автоматическое отслеживание и генерация графиков для количества отправленных сообщений, время проведенного в голосовых каналах, количества участников сервера и много все остального!",
+            "3_title": "3. Доска лидеров",
+            "3_desc": "Покажите всему миру, что имеет Ваше сообщество и сражайтесь за мировой топ 10 по количеству отправленных сообщений или времени проведенному в голосовых каналах. Или же просто сражайтесь за топ 10 в Вашем сервере."
         },
         "stats": {
-            "servers": "Servers",
-            "users": "Users",
-            "stats": "Statistics"
+            "servers": "Сервера",
+            "users": "Участники",
+            "stats": "Статистики"
         }
 
     },
-    "ready_try": "Ready to try Statify?",
-    "ready_try2": "Invite Statify and start giving your server cool perks!",
+    "ready_try": "Готовы попробовать Statify?",
+    "ready_try2": "Пригласите Statify и начните давать Вашему серверу привилегии!",
     "features": {
-        "title": "Statify Features and Commands",
-        "desc": "Here you will find all Commands, Features and stats for the Statify Discord Bot.",
-        "commands_title": "Commands",
-        "commands_desc": "A full Command List",
-        "commands_normal": "Normal Commands",
-        "commands_premium": "Premium Commands",
-        "features_title": "Features",
-        "features_desc": "Statify is a small and new Discord Bot to display advanced Statistics, Track and generate Charts and many more things."
+        "title": "Особенности и команды для Statify",
+        "desc": "Здесь Вы можете найти все команды, опции и статистики для Statify.",
+        "commands_title": "Команды",
+        "commands_desc": "Список команд",
+        "commands_normal": "Стандартные команды",
+        "commands_premium": "Премиальные команды",
+        "features_title": "Особенности",
+        "features_desc": "Statify - небольшой и новый бот для показа продвинутых статистик, отслеживайте и создавайте графики и много чего еще."
     },
     "premium": {
-        "title": "Statify Premium",
-        "desc": "With Statify Premium you can unlock exclusive Premium Features",
+        "title": "Statify Премиум",
+        "desc": "С Statify Премиум Вы можете разблокировать эксклюзивные опции Премиума",
         "features": {
-            "title": "Features",
-            "desc": "Here is a list of all Features you get with Statify Premium",
-            "1_title": "Faster Statistic Updating",
-            "1_desc": "Your Statistics will update faster than normal Statistcs",
-            "2_title": "Up to 25 Stats in one Statistic Message",
-            "2_desc": "You can set up to 25 Stats in on Statistic Message.",
-            "3_title": "More Customisation",
-            "3_desc": "Change the Icon, Banner and Description of your Statistic Message."
+            "title": "Опции Премиума",
+            "desc": "Полный список того, что Вы получите с Statify Премиум",
+            "1_title": "Быстрое обновление статистик",
+            "1_desc": "Вашт статистики будут обновлятся быстрее чем стандартные",
+            "2_title": "До 25 статистик в одном сообщении",
+            "2_desc": "Вы можете настроить до 25 статистик в одном сообщении.",
+            "3_title": "Больше настроек",
+            "3_desc": "Смените иконку, баннер и описание Вашего сообщения со статистикой."
         },
-        "how_get": "How to get Premium",
-        "how_title": "Discord Server Boosting",
-        "how_desc": "You can get Statify Premium by boosting our Discord Server. After you boosted the Server you will get a Private Message from our Statify Manager. Please follow the instructions sent to you to active your Premium Membership. If you have any Problems feel free to open a ticket in the Ticket-Support."
+        "how_get": "Как получить Премиум",
+        "how_title": "Буст оффициального Discord сервера бота",
+        "how_desc": "Вы можете получить Премиум забустив наш Discord сервер. После того как Вы забустили сервер Вам придет личное сообщение от нашего бота Statify Manager. Пожалуйста следуйте отправленным инструкциям для активации Вашего Premium. Если у Вас есть какие-либо проблемы отправте письмо в службу поддержки через Ticket-Support."
     },
     "team": {
-        "title": "Teammembers",
-        "desc": "Here you see all of our Teammembers!",
-        "title2": "Statify Team",
-        "desc2": "Meet all of the Amazing People behind Statify",
+        "title": "Члены команды бота Statify",
+        "desc": "Это все члены команды разработки бота Statify!",
+        "title2": "Команда Statify",
+        "desc2": "Познакомтесь со всеми замечательными участниками команды, стоящие за разработкой бота ",
         "states": {
-            "playing": "Playing",
-            "listening": "Listening",
-            "streaming": "Streaming",
-            "watching": "Watching",
-            "custom": "Custom Status"
+            "playing": "Играет в игру",
+            "listening": "Слушает",
+            "streaming": "Ведет прямую трансляцию",
+            "watching": "Смотрит",
+            "custom": "Пользовательский статус"
         },
         "status": {
-            "online": "Online",
-            "offline": "Offline",
-            "dnd": "Do Not Disturb",
-            "idle": "Idle"
+            "online": "В сети",
+            "offline": "Не в сети",
+            "dnd": "Не беспокоить",
+            "idle": "Не активен"
         },
         "social": {
-            "bio": "Bio",
+            "bio": "Биография",
             "yt": "Youtube",
             "gh": "Github",
             "twitter": "Twitter",
@@ -75,71 +75,71 @@
         }
     },
     "types": {
-        "title": "Statify Stattypes",
-        "desc": "Here you will find all Stattypes.",
-        "title2": "Statlist",
-        "desc2": "Here are all Stat Types that you can use on Statify:"
+        "title": "Типы статистик",
+        "desc": "Здесь Вы можете найти все типы статистик.",
+        "title2": "Список статистик",
+        "desc2": "Здесь Вы можете найти все типы статистик возможные для использования ботом Statify:"
     },
     "brand": {
-        "title": "Statify Branding",
-        "desc": "Here you will find all Statify Designs that are available for public use with a copyright notice.",
+        "title": "Брендинг Statify",
+        "desc": "Здесь Вы можете найти все дизайны Statify, которые разрешены для публичного использования с пометкой copyright.",
         "pics": {
-            "1": "Statify Logo",
-            "2": "Statify Banner",
-            "3": "Statify Logo (gif)"
+            "1": "Логотип Statify",
+            "2": "Баннер Statify",
+            "3": "Логотип Statify в формате GIF"
         },
-        "download": "Download"
+        "download": "Скачать"
     },
     "about": {
-        "title": "About Statify",
-        "desc": "A Little About us Text ;)",
-        "about": "About us",
-        "text": "Statify is a small and new Discord Bot to display advanced Statistics, track and generate charts and more.\nWe are a Team from germany consist of one Bot Developer, one Web Developer, a manager and one Designer."
+        "title": "О Statify",
+        "desc": "Небольшой текст о нас",
+        "about": "О нас",
+        "text": "Statify - небольшой и новый бот для показа продвинутых статистик, отслеживайте, создавайте графики и много всего остального.\nМы команда из Германии состоящая из одного разработчика бота, одного веб-разработчика, менеджера и одного дизайнера."
     },
     "getting-started": {
-        "title": "Getting Started with Statify",
-        "desc": "Here you can see how to invite the Discord Bot and setup you Statistics.",
+        "title": "Начало работы с Statify",
+        "desc": "Здесь Вы можете узнать, как пригласить бота и как настроить статистики.",
         "steps": {
-            "1_title": "1. Inviting the Bot",
-            "1_desc": "Invite the Discord Bot to your Server by clicking here.\nWhen you successfully invited the bot you will be redirected to a confirmation page.",
-            "2_title": "2. Setting up Statistics",
-            "2_desc": "Enter the s!setup command and follow the steps shown on the screen.\nIf everything is complete a Statistic Message will be created in your selected Textchannel.",
-            "3_title": "3. Customising the Bot",
-            "3_desc": "You can customise the Discord Bot by changing the language or the prefix.\nUse s!prefix (new Prefix) or s!language (new Language)",
-            "4_title": "4. Leaderboards & Users",
-            "4_desc": "Get the top 10 members with the most messages or voicetime with the s!leaderboard command.\nUse s!leaderboard (messages/voicetime/textchannel/voicechannel)(guild/global).\nYou can also get the Statistics of a specific User by typing s!user (@User).",
-            "5_title": "5. Charts",
-            "5_desc": "Know how active your community is by generating a own chart for your Discord Server.\nUse s!chart (user/bots/invites/boosts/total_messages/total_voicetime/messages_today/voicetime_today)"
+            "1_title": "Шаг первый: пригласите бота на сервер",
+            "1_desc": "Пригласите бота на Ваш Сервер нажатием здесь.\nКогда вы успешно пригласили бота Вы будете перенесены в страницу подтверждения.",
+            "2_title": "Шаг второй: настройте статистики",
+            "2_desc": "Введите команду s!setup и проследуйте по шагам показанным на экране.\nЕсли все сделано, сообщение со статистикой появится в выбранном Вами текстовом канале.",
+            "3_title": "Шаг третий: настройка бота под себя",
+            "3_desc": "Вы можете настраивать бота сменой языка или префикса.\nИспользуйте s!prefix (новый префикс) или s!language (новый язык)",
+            "4_title": "Шаг четвертый: таблица лидеров и пользователи",
+            "4_desc": "Получите топ 10 участников сервера, которые больше всего отправили сообщений или провели время в голосовом канале командой s!leaderboard.\nИспользуйте s!leaderboard (messages/voicetime/textchannel/voicechannel)(guild/global).\nВы так же можете получить статистику любого пользователя командой s!user (@упоминание пользоветеля).",
+            "5_title": "Шаг пятый: графики",
+            "5_desc": "Узнайте насколько активно ваше сообщество созданием собственного графика для сервера.\nИспользуйте s!chart (user/bots/invites/boosts/total_messages/total_voicetime/messages_today/voicetime_today)"
         },
-        "still": "If you still need help with the Bot. Feel free to join our Discord Server and open a ticket in #ticket-support"
+        "still": "Если Вам все еще нужна помощь с ботом присоединитесь к нашему Discord серверу и напишите в поддержку через #ticket-support"
     },
     "links": {
-        "home": "Home",
-        "features": "Features",
-        "premium": "Premium",
-        "dash": "Dashboard",
+        "home": "Главная страница",
+        "features": "Особенности",
+        "premium": "Премиум",
+        "dash": "Панель управления",
         "dropdown": {
-            "title": "More",
-            "team": "Team",
-            "types": "Stat Types",
-            "brand": "Branding",
-            "support": "Support"
+            "title": "Больше",
+            "team": "Команда",
+            "types": "Типы статистик",
+            "brand": "Брэндинг",
+            "support": "Поддержка"
         },
-        "about": "About"
+        "about": "О нас"
     },
     "buttons": {
-        "get-started": "Get Started",
-        "invite": "Add to Server",
-        "more": "Find out More",
-        "back": "Go Back",
-        "next": "Next Page",
-        "login": "Login",
-        "home": "Go Home",
-        "select": "Select",
-        "settings": "Settings",
-        "ssettings": "Server Settings",
-        "support": "Support Discord Server",
-        "discord": "Discord Server"
+        "get-started": "Начало работы",
+        "invite": "Добавить на сервер",
+        "more": "Больше",
+        "back": "Назад",
+        "next": "Следующее",
+        "login": "Войти",
+        "home": "На главную",
+        "select": "Выбрать",
+        "settings": "Настройки",
+        "ssettings": "Настройки сервера",
+        "support": "Discord сервер поддержки",
+        "discord": "Discord сервер"
     }
 
 }
