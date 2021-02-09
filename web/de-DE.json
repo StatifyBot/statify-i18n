@@ -1,0 +1,145 @@
+{
+    "home": {
+        "title": "It's time to use Statify in your server.",
+        "desc": "Statify is a well made Statistic Discord Bot made for everyone who wants to see how their Server is going that is on Discord Since 2020!",
+        "features_title": "Features of Statify",
+        "features_desc": "We provide you the best features in Statify!",
+        "features": {
+            "1_title": "1. Statistics",
+            "1_desc": "Easily create your own Statistics and show the world what your Discord Server has. Change everything including the color, images, language and more!",
+            "2_title": "2. Charts",
+            "2_desc": "See how active your community is and improve your Server by that Data. Automatic Chart tracking and generation for Messages, Voicetime, Useramount and many more!",
+            "3_title": "3. Leaderboard",
+            "3_desc": "Show the world what your community got and battle for the global Top 10 in Messageamount or Voiceactivity. Or just battle between the top 10 in your Server."
+        },
+        "stats": {
+            "servers": "Servers",
+            "users": "Users",
+            "stats": "Statistics"
+        }
+
+    },
+    "ready_try": "Ready to try Statify?",
+    "ready_try2": "Invite Statify and start giving your server cool perks!",
+    "features": {
+        "title": "Statify Features and Commands",
+        "desc": "Here you will find all Commands, Features and stats for the Statify Discord Bot.",
+        "commands_title": "Commands",
+        "commands_desc": "A full Command List",
+        "commands_normal": "Normal Commands",
+        "commands_premium": "Premium Commands",
+        "features_title": "Features",
+        "features_desc": "Statify is a small and new Discord Bot to display advanced Statistics, Track and generate Charts and many more things."
+    },
+    "premium": {
+        "title": "Statify Premium",
+        "desc": "With Statify Premium you can unlock exclusive Premium Features",
+        "features": {
+            "title": "Features",
+            "desc": "Here is a list of all Features you get with Statify Premium",
+            "1_title": "Faster Statistic Updating",
+            "1_desc": "Your Statistics will update faster than normal Statistcs",
+            "2_title": "Up to 25 Stats in one Statistic Message",
+            "2_desc": "You can set up to 25 Stats in on Statistic Message.",
+            "3_title": "More Customisation",
+            "3_desc": "Change the Icon, Banner and Description of your Statistic Message."
+        },
+        "how_get": "How to get Premium",
+        "how_title": "Discord Server Boosting",
+        "how_desc": "You can get Statify Premium by boosting our Discord Server. After you boosted the Server you will get a Private Message from our Statify Manager. Please follow the instructions sent to you to active your Premium Membership. If you have any Problems feel free to open a ticket in the Ticket-Support."
+    },
+    "team": {
+        "title": "Teammembers",
+        "desc": "Here you see all of our Teammembers!",
+        "title2": "Statify Team",
+        "desc2": "Meet all of the Amazing People behind Statify",
+        "states": {
+            "playing": "Playing",
+            "listening": "Listening",
+            "streaming": "Streaming",
+            "watching": "Watching",
+            "custom": "Custom Status"
+        },
+        "status": {
+            "online": "Online",
+            "offline": "Offline",
+            "dnd": "Do Not Disturb",
+            "idle": "Idle"
+        },
+        "social": {
+            "bio": "Bio",
+            "yt": "Youtube",
+            "gh": "Github",
+            "twitter": "Twitter",
+            "insta": "Instagram"
+        }
+    },
+    "types": {
+        "title": "Statify Stattypes",
+        "desc": "Here you will find all Stattypes.",
+        "title2": "Statlist",
+        "desc2": "Here are all Stat Types that you can use on Statify:"
+    },
+    "brand": {
+        "title": "Statify Branding",
+        "desc": "Here you will find all Statify Designs that are available for public use with a copyright notice.",
+        "pics": {
+            "1": "Statify Logo",
+            "2": "Statify Banner",
+            "3": "Statify Logo (gif)"
+        },
+        "download": "Download"
+    },
+    "about": {
+        "title": "About Statify",
+        "desc": "A Little About us Text ;)",
+        "about": "About us",
+        "text": "Statify is a small and new Discord Bot to display advanced Statistics, track and generate charts and more.\nWe are a Team from germany consist of one Bot Developer, one Web Developer, a manager and one Designer."
+    },
+    "getting-started": {
+        "title": "Getting Started with Statify",
+        "desc": "Here you can see how to invite the Discord Bot and setup you Statistics.",
+        "steps": {
+            "1_title": "1. Inviting the Bot",
+            "1_desc": "Invite the Discord Bot to your Server by clicking here.\nWhen you successfully invited the bot you will be redirected to a confirmation page.",
+            "2_title": "2. Setting up Statistics",
+            "2_desc": "Enter the s!setup command and follow the steps shown on the screen.\nIf everything is complete a Statistic Message will be created in your selected Textchannel.",
+            "3_title": "3. Customising the Bot",
+            "3_desc": "You can customise the Discord Bot by changing the language or the prefix.\nUse s!prefix (new Prefix) or s!language (new Language)",
+            "4_title": "4. Leaderboards & Users",
+            "4_desc": "Get the top 10 members with the most messages or voicetime with the s!leaderboard command.\nUse s!leaderboard (messages/voicetime/textchannel/voicechannel)(guild/global).\nYou can also get the Statistics of a specific User by typing s!user (@User).",
+            "5_title": "5. Charts",
+            "5_desc": "Know how active your community is by generating a own chart for your Discord Server.\nUse s!chart (user/bots/invites/boosts/total_messages/total_voicetime/messages_today/voicetime_today)"
+        },
+        "still": "If you still need help with the Bot. Feel free to join our Discord Server and open a ticket in #ticket-support"
+    },
+    "links": {
+        "home": "Home",
+        "features": "Features",
+        "premium": "Premium",
+        "dash": "Dashboard",
+        "dropdown": {
+            "title": "More",
+            "team": "Team",
+            "types": "Stat Types",
+            "brand": "Branding",
+            "support": "Support"
+        },
+        "about": "About"
+    },
+    "buttons": {
+        "get-started": "Get Started",
+        "invite": "Add to Server",
+        "more": "Find out More",
+        "back": "Go Back",
+        "next": "Next Page",
+        "login": "Login",
+        "home": "Go Home",
+        "select": "Select",
+        "settings": "Settings",
+        "ssettings": "Server Settings",
+        "support": "Support Discord Server",
+        "discord": "Discord Server"
+    }
+
+}
