@@ -19,9 +19,9 @@ These translations are unlike the bot translations fully in JSON and not in `*.p
 
 
 #### Languages done:
-- [] en_GB
-- [] en_us
-- [] de
+- [ ] en_GB
+- [ ] en_us
+- [ ] de
 - [ ] es
 - [ ] fr
 - [ ] ro
