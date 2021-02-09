@@ -25,6 +25,6 @@ These translations are unlike the bot translations fully in JSON and not in `*.p
 - [ ] es
 - [ ] fr
 - [ ] ro
-- [ ] ru
+- [X] ru
 - [ ] bg
 - [ ] he
