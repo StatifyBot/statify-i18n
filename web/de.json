@@ -1,8 +1,8 @@
 {
     "home": {
-        "title": "It's time to use Statify in your server.",
+        "title": "Es ist Zeit, Statify in deinem Server zu nutzen.",
         "desc": "Statify is a well made Statistic Discord Bot made for everyone who wants to see how their Server is going that is on Discord Since 2020!",
-        "features_title": "Features of Statify",
+        "features_title": "Funktionen von Statify",
         "features_desc": "We provide you the best features in Statify!",
         "features": {
             "1_title": "1. Statistics",
@@ -14,12 +14,12 @@
         },
         "stats": {
             "servers": "Servers",
-            "users": "Users",
-            "stats": "Statistics"
+            "users": "Nutzer",
+            "stats": "Statistiken"
         }
 
     },
-    "ready_try": "Ready to try Statify?",
+    "ready_try": "Bereit, Statify auszuprobieren?",
     "ready_try2": "Invite Statify and start giving your server cool perks!",
     "features": {
         "title": "Statify Features and Commands",
