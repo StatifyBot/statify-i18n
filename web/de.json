@@ -19,7 +19,7 @@
         }
 
     },
-    "ready_try": "Bereit, Statify auszuprobieren?",
+    "ready_try": "Bereit Statify auszuprobieren?",
     "ready_try2": "Invite Statify and start giving your server cool perks!",
     "features": {
         "title": "Statify Features and Commands",
@@ -29,16 +29,16 @@
         "commands_normal": "Normal Commands",
         "commands_premium": "Premium Commands",
         "features_title": "Features",
-        "features_desc": "Statify is a small and new Discord Bot to display advanced Statistics, Track and generate Charts and many more things."
+        "features_desc": "Statify ist ein neuer Discord Bot, mit welchem man fortgeschrittene Statistiken über seinen Discord-Server anzeigen kann, Diagramme generieren kann und viele weitere Dinge machen kann."
     },
     "premium": {
         "title": "Statify Premium",
-        "desc": "With Statify Premium you can unlock exclusive Premium Features",
+        "desc": "Mit Statify Premium kannst Du exklusive Features freischalten.",
         "features": {
             "title": "Features",
-            "desc": "Here is a list of all Features you get with Statify Premium",
-            "1_title": "Faster Statistic Updating",
-            "1_desc": "Your Statistics will update faster than normal Statistcs",
+            "desc": "Hier sind alle Features welche mit Statify Premium freigeschaltet werden.",
+            "1_title": "Schnellere Statistiken",
+            "1_desc": "Deine Statistiken werden schneller aktualisiert, somit sind sie immer auf dem neusten Stand",
             "2_title": "Up to 25 Stats in one Statistic Message",
             "2_desc": "You can set up to 25 Stats in on Statistic Message.",
             "3_title": "More Customisation",
@@ -119,25 +119,25 @@
         "premium": "Premium",
         "dash": "Dashboard",
         "dropdown": {
-            "title": "More",
-            "team": "Team",
-            "types": "Stat Types",
+            "title": "Mehr",
+            "team": "Das Team",
+            "types": "Statistiktypen",
             "brand": "Branding",
             "support": "Support"
         },
         "about": "About"
     },
     "buttons": {
-        "get-started": "Get Started",
-        "invite": "Add to Server",
-        "more": "Find out More",
-        "back": "Go Back",
-        "next": "Next Page",
+        "get-started": "Starte jetzt!",
+        "invite": "Einladen",
+        "more": "Finde mehr heraus",
+        "back": "Zurück",
+        "next": "Nächste Seite",
         "login": "Login",
-        "home": "Go Home",
-        "select": "Select",
-        "settings": "Settings",
-        "ssettings": "Server Settings",
+        "home": "Home",
+        "select": "Auswählen",
+        "settings": "Einstellungen",
+        "ssettings": "Server Einstellungen",
         "support": "Support Discord Server",
         "discord": "Discord Server"
     }
