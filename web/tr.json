@@ -1,0 +1,145 @@
+{
+    "home": {
+        "title": "Statify'ı sunucunda kullanmanın tam zamanı.",
+        "desc": "Stratify, 2020'den beri, Discord sunucularının nasıl ileriediğni görmek isteyen herkes için yapılmış mükemmel bir istatistik botudur!",
+        "features_title": "Statify'ın özellikleri",
+        "features_desc": "Statify ile size mükemmel özelliker sunuyoruz!",
+        "features": {
+            "1_title": "1. İstatistikler",
+            "1_desc": "Kolayca kendi istatistiklerinizi oluşturun ve dünyaya Discord Sunucunuzun nasıl bir sunucu olduğunu gösterin. Renk, resim, dil ve daha fazlası dahil her şey özelleştirilebilir!",
+            "2_title": "2. Grafikler",
+            "2_desc": "Topluluğunuzun ne kadar aktif olduğunu görün ve sunucunuzu bu verilerle geliştirin. Mesajlar, ses kanalı aktifliği, kullanıcı sayısı ve daha fazlası için otomatik grafik oluşturun ve istatistikleri izleyin!",
+            "3_title": "3. Sıralama",
+            "3_desc": "Mesaj veya ses kanalı etkinliğiyle dünyanın en iyi 10'una girmek için savaşın ve topluluğunuzun neye sahip olduğunu dünyaya gösterin. Ya da sadece sunucunuzdaki ilk 10'a girmek için savaşın."
+        },
+        "stats": {
+            "servers": "Sunucu",
+            "users": "Kullanıcı",
+            "stats": "İstatistik"
+        }
+
+    },
+    "ready_try": "Statify'ı denemeye hazır mısın?",
+    "ready_try2": "Statify'i davet edin ve sunucunuzda harika avantajlar elde etmeye başlayın!",
+    "features": {
+        "title": "Statify Özellikleri ve Komutları",
+        "desc": "Burada Statify Discord Botu için tüm Komutları, Özellikleri ve istatistikleri bulabilirsiniz.",
+        "commands_title": "Komutlar",
+        "commands_desc": "Komut Listesi",
+        "commands_normal": "Normal Komutlar",
+        "commands_premium": "Premium Komutlar",
+        "features_title": "Özellikler",
+        "features_desc": "Statify, gelişmiş istatistikleri görüntülemek, grafikleri izlemek ve oluşturmak ve daha fazlasını yapmak için küçük ve yeni bir Discord botudur."
+    },
+    "premium": {
+        "title": "Statify Premium",
+        "desc": "Statify Premium ile özel Premium Özelliklerin kilidini açabilirsiniz",
+        "features": {
+            "title": "Özellikler",
+            "desc": "İşte Statify Premium ile elde ettiğiniz tüm özelliklerin bir listesi",
+            "1_title": "Daha Hızlı İstatistik Güncellemesi",
+            "1_desc": "İstatistikleriniz normal istatistiklerden daha hızlı güncellenecektir",
+            "2_title": "Bir Mesajda 25 İstatistik",
+            "2_desc": "Bir istatistik mesajına 25 İstatistiğe kadar istatistik ekleyebilirsiniz.",
+            "3_title": "Daha Fazla Özelleştirme",
+            "3_desc": "İstatistik mesajınızın simgesini, afişini ve açıklamasını değiştirin."
+        },
+        "how_get": "Premium nasıl alınır",
+        "how_title": "Discord Sunucusuna Takviye Yaparak",
+        "how_desc": "Discord sunucumuz için takviye kullanarak Statify Premium'u alabilirsiniz. Sunucu için takviye kullandıktan sonra Statify Yöneticimizden özel bir mesaj alacaksınız. Premium üyeliğinizi aktif hale getirmek için lütfen size gönderilen talimatları izleyin. Herhangi bir sorunla karşılaşırsanız, destek bileti açmaktan çekinmeyin."
+    },
+    "team": {
+        "title": "Ekip Üyeleri",
+        "desc": "Burada tüm Ekip Üyelerimizi görebilirsiniz!",
+        "title2": "Statify Ekibi",
+        "desc2": "Statify'ın arkasındaki harika insanlarla tanışın",
+        "states": {
+            "playing": "Oynuyor",
+            "listening": "Dinliyor",
+            "streaming": "Yayınlıyor",
+            "watching": "İzliyor",
+            "custom": "Özel Durum"
+        },
+        "status": {
+            "online": "Çevrimiçi",
+            "offline": "Çevrimdışı",
+            "dnd": "Rahatsız Etmeyin",
+            "idle": "Boşta"
+        },
+        "social": {
+            "bio": "Biyografi",
+            "yt": "Youtube",
+            "gh": "Github",
+            "twitter": "Twitter",
+            "insta": "Instagram"
+        }
+    },
+    "types": {
+        "title": "Statify İstatistik Türleri",
+        "desc": "Burada tüm istatistik türlerini bulabilirsiniz.",
+        "title2": "İstatistik Listesi",
+        "desc2": "Statify'da kullanabileceğiniz tüm istatistik türleri şunlardır:"
+    },
+    "brand": {
+        "title": "Statify Markalaşma",
+        "desc": "Burada, bir telif hakkı bildirimi ile birlikte halka açık tüm Statify Tasarımlarını bulabilirsiniz.",
+        "pics": {
+            "1": "Statify Logosu",
+            "2": "Statify Afişi",
+            "3": "Statify Logosu (gif)"
+        },
+        "download": "İndir"
+    },
+    "about": {
+        "title": "Statify Hakkında",
+        "desc": "Hakkımızda biraz bilgi ;)",
+        "about": "Hakkımızda",
+        "text": "Statify, gelişmiş istatistikleri görüntülemek, grafikleri izlemek ve oluşturmak ve daha fazlasını yapmak için küçük ve yeni bir Discord botudur.\nAlmanya'dan bir Bot geliştiricisi, bir Web geliştiricisi, bir yönetici ve bir Tasarımcıdan oluşan bir Ekibiz."
+    },
+    "getting-started": {
+        "title": "Statify ile Başlarken",
+        "desc": "Burada Discord botunu nasıl davet edebileceğinizi ve size İstatistikleri nasıl ayarlayabileceğinizi görebilirsiniz.",
+        "steps": {
+            "1_title": "1. Botu Davet Etme",
+            "1_desc": "Discord Botunu buraya tıklayarak Sunucunuza davet edin.\nBotu başarıyla davet ettiğinizde bir onay sayfasına yönlendirileceksiniz.",
+            "2_title": "2. İstatistikleri Ayarlama",
+            "2_desc": "s!setup komutunu kullanın ve ekranda gösterilen adımları izleyin.\nHer şey bittiğinde, seçtiğiniz Metin Kanalında bir İstatistik Mesajı oluşturulacaktır.",
+            "3_title": "3. Botu Özelleştirme",
+            "3_desc": "Dili veya öneki değiştirerek Discord botunu özelleştirebilirsiniz.\ns!prefix (yeni önek) veya s!language (yeni dil) komutlarını kullanarak botu özelleştirebilirsiniz.",
+            "4_title": "4. Sıralama & Kullanıcılar",
+            "4_desc": "s!leaderboard komutuyla en çok mesaja veya konuşma süresine sahip ilk 10 üyeyi görüntüleyin.\ns!leaderboard (messages/voicetime/textchannel/voicechannel)(guild/global) komutlarını kullanabilirsiniz.\ns!user (@üye) komutunu kullanarak belirli bir kullanıcı hakkında da bilgi alabilirsiniz.",
+            "5_title": "5. Grafikler",
+            "5_desc": "Discord sunucunuz için kendi grafiğinizi oluşturarak topluluğunuzun ne kadar aktif olduğunu öğrenin.\n!chart (user/bots/invites/boosts/total_messages/total_voicetime/messages_today/voicetime_today) komutlarını kullanabilirsiniz"
+        },
+        "still": "Hâlâ Bot ile ilgili yardıma ihtiyacınız varsa. Discord Sunucumuza katılmaktan ve destek bileti açmaktan çekinmeyin"
+    },
+    "links": {
+        "home": "Anasayfa",
+        "features": "Özellikler",
+        "premium": "Premium",
+        "dash": "Kontrol Paneli",
+        "dropdown": {
+            "title": "Daha fazla",
+            "team": "Ekip",
+            "types": "İstatistik Türleri",
+            "brand": "Markalaşma",
+            "support": "Destek"
+        },
+        "about": "Hakkında"
+    },
+    "buttons": {
+        "get-started": "Başla",
+        "invite": "Sunucuna Ekle",
+        "more": "Fazlasını Öğren",
+        "back": "Geri Git",
+        "next": "Sonraki Sayfa",
+        "login": "Giriş Yap",
+        "home": "Anasayfaya Git",
+        "select": "Seç",
+        "settings": "Ayarlar",
+        "ssettings": "Sunucu Ayarları",
+        "support": "Destek Sunucusu",
+        "discord": "Discord Sunucusu"
+    }
+
+}
