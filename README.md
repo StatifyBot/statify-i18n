@@ -14,8 +14,8 @@
 > Read more here: https://redcodes.dev/statify/
 
 <br>
-~~Translation files for the Statify Discord Bot and our Website. You will get a Translator role in the Discord Server upon approval. Have fun translating!~~<br>
-~~The Bot is currently in a Pre-Release state. Any new messages could be added at every time without any announcements!~~
+<s>Translation files for the Statify Discord Bot and our Website. You will get a Translator role in the Discord Server upon approval. Have fun translating!</s><br>
+<s>The Bot is currently in a Pre-Release state. Any new messages could be added at every time without any announcements!</s>
 
-~~Join on the [official Statify Discord Server](https://discord.gg/pnhSzb9) to get your Translator role!~~
+<s>Join on the [official Statify Discord Server](https://discord.gg/pnhSzb9) to get your Translator role!</s>
 
